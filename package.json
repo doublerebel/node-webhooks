@@ -16,7 +16,7 @@
   "devDependencies": {
     "supertest": "~0.1.2",
     "mocha": "~1.3.2",
-    "iced-coffee-script": "~1.7.0"
+    "iced-coffee-script": "1.8.0-a"
   },
   "description": "Easily create webhooks",
   "directories": {
